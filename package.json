@@ -1,0 +1,9 @@
+{
+  "name": "docker-node-exercicio",
+  "version": "1.0.0",
+  "description": "Exercicio Docker - app Node servida na porta 3000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
